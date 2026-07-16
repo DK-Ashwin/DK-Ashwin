@@ -27,7 +27,7 @@
 ###
 
 <div data-importer="socials" align="center">
-  <a href="www.linkedin.com/in/ashwin-dileepkumar-6706b1375" target="_blank">
+  <a href="https://www.linkedin.com/in/ashwin-dileepkumar-6706b1375" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://www.hackerrank.com/profile/ashwindilleep711" target="_blank">
@@ -39,19 +39,19 @@
 
 <div data-importer="stats" align="center">
   <img src="https://streak-stats.demolab.com?user=DK-Ashwin&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/DK-Ashwin/DK-Ashwin/activity-graph-output/activity-graph.svg?radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DK-Ashwin&theme=dracula&area=true" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
 
 <picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DK-Ashwin/DK-Ashwin/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DK-Ashwin/DK-Ashwin/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DK-Ashwin/DK-Ashwin/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DK-Ashwin/DK-Ashwin/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DK-Ashwin/DK-Ashwin/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DK-Ashwin/DK-Ashwin/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/DK-Ashwin/DK-Ashwin/snake-output/snake.svg" alt="Snake animation" />
+<img data-importer="snake" src="https://raw.githubusercontent.com/DK-Ashwin/DK-Ashwin/snake-output/github-snake.svg" alt="Snake animation" />
 
 ###
